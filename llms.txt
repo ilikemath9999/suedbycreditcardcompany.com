@@ -1,0 +1,16 @@
+# Sued by Credit Card Company? -- What to Do [2026]
+> Sued by a credit card company? Don't ignore it. Learn how to respond, raise defenses, and consider bankruptcy. 2026 step-by-step...
+
+## About
+suedbycreditcardcompany.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Sued by Credit Card Company? -- What to Do: https://suedbycreditcardcompany.com/
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
